@@ -49,7 +49,7 @@ Tracks average length of stay, rolling 3-month revenue, and revenue per day. Inc
 ### Dashboard 3 — Doctor and Provider Performance
 Tracks previous month revenue, MoM billing growth, and revenue per day. Includes admission vs revenue scatter by condition, MoM billing growth trend, revenue by doctor, and revenue by insurance provider.
 
-<img src="">
+<img src="https://github.com/Machry3004/Healthcare-Services-Analysis/blob/main/Report%20Screenshot/Healthcare%20v.3.png">
 
 ---
 
