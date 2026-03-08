@@ -44,7 +44,7 @@ Tracks total revenue, total admissions, average billing, and YoY growth. Include
 ### Dashboard 2 — Stay and Capacity Analysis
 Tracks average length of stay, rolling 3-month revenue, and revenue per day. Includes stay breakdown by admission type, total admissions by month, revenue per day by condition, and average stay by condition.
 
-<img src="">
+<img src="https://github.com/Machry3004/Healthcare-Services-Analysis/blob/main/Report%20Screenshot/Healthcare%20v.2.png">
 
 ### Dashboard 3 — Doctor and Provider Performance
 Tracks previous month revenue, MoM billing growth, and revenue per day. Includes admission vs revenue scatter by condition, MoM billing growth trend, revenue by doctor, and revenue by insurance provider.
