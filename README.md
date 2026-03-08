@@ -39,17 +39,17 @@ A healthcare organization needed a centralized reporting system to track hospita
 ### Dashboard 1 — Revenue Overview
 Tracks total revenue, total admissions, average billing, and YoY growth. Includes revenue by admission type, monthly revenue trend, revenue and admissions combo chart, and revenue by medical condition.
 
-![Revenue Overview](screenshots/healthcare_overview.png)
+<img src="https://github.com/Machry3004/Healthcare-Services-Analysis/blob/main/Report%20Screenshot/Healthcare%20v.1.png">
 
 ### Dashboard 2 — Stay and Capacity Analysis
 Tracks average length of stay, rolling 3-month revenue, and revenue per day. Includes stay breakdown by admission type, total admissions by month, revenue per day by condition, and average stay by condition.
 
-![Stay Analysis](screenshots/healthcare_stay_analysis.png)
+<img src="">
 
 ### Dashboard 3 — Doctor and Provider Performance
 Tracks previous month revenue, MoM billing growth, and revenue per day. Includes admission vs revenue scatter by condition, MoM billing growth trend, revenue by doctor, and revenue by insurance provider.
 
-![Performance Dashboard](screenshots/healthcare_performance.png)
+<img src="">
 
 ---
 
